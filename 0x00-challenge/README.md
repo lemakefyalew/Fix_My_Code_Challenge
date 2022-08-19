@@ -1,4 +1,4 @@
-Fix my code 
+Fix my code challenge
 Requirements
 General
 Allowed editors: vi, vim, emacs
